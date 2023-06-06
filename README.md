@@ -8,3 +8,5 @@ Journey of designing my dissertation prospectus
 # Transform Statistics and Normalizing Flows
 
 - Core question is how to "transform" micro-state random variables to macro-state that well-defines cause of target behavior of the system?
+
+# Is there anyway one can learn better conditional density and transformation that falls under the condition of `exact transformation (Rubenstein 2017)`?
